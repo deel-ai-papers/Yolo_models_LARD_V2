@@ -10,7 +10,7 @@ yolo train data=data.yaml model=yolov11.yaml
 
 # Data
 These models were all trained on LARD_V2 which is a publicly available dataset for runway detection.
-- The repository for generating new image data is available in open source at https://github.com/deel-ai/LARD
+- The repository for generating new image data is available in open source at https://github.com/deel-ai/LARD/tree/LARD_V2
 - The LARD V2 dataset is available on HuggingFace at https://huggingface.co/datasets/DEEL-AI/LARD_V2
 
 # Licence
