@@ -15,5 +15,5 @@ These models were all trained on LARD_V2 which is a publicly available dataset f
 
 # Licence
 [AGPL](LICENSE): GNU Affero General Public inherited from Ultralytics
-- The provided pretrained YOLO weights are under AGPL-3.0 (per Ultralytics’ licensing statement). Please keep the LICENSE/notice with any redistribution.
+- The provided pretrained YOLO weights are under AGPL-3.0 (per Ultralytics’ licensing statement). Please keep the LICENSE with any redistribution.
 - Our libraries (provided at https:/github.com/deel-ai) are independent. If you package/distribute a combined application that includes Ultralytics (AGPL) code, the distribution must comply with AGPL.
