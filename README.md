@@ -5,7 +5,7 @@ Repository dedicated to storing models trained on LARD_V2 under A-GPL License
 The models provided here are trained with Ultralytics framework using the yaml file provided.
 The first version provided here use the basic command line interface of Ultralytics for training:
 ```shell
-yolo train data=data.yaml model=yolov11.yaml
+yolo train data=data.yaml model=LARD_V2.yaml
 ```
 
 # Data
