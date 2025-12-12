@@ -1,5 +1,5 @@
 # Yolo models on LARD V2
-Repository dedicated to storing models trained on LARD_V2 under A-GPL License
+Repository dedicated to storing models trained on LARD_V2 with [Ultralytics](https://docs.ultralytics.com/models/yolo11) framework, and provided under AGPL-3.0 License
 
 # Training reproductibility
 The models provided here are trained with Ultralytics framework using the yaml file provided.
