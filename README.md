@@ -1,2 +1,17 @@
-# Yolo_models_LARD_V2
-Repository dedicated to storing AGPL models trained on LARD_V2
+# Yolo models on LARD V2
+Repository dedicated to storing models trained on LARD_V2 under A-GPL License
+
+# Training reproductibility
+The models provided here are trained with Ultralytics framework using the yaml file provided.
+The first version provided here use the basic command line interface of Ultralytics for training:
+```shell
+yolo train data=data.yaml model=yolov11.yaml
+```
+
+# Data
+These models were all trained on LARD_V2 which is a publicly available dataset for runway detection.
+- The repository for generating new image data is available in open source at https://github.com/deel-ai/LARD
+- The LARD V2 dataset is available on HuggingFace at https://huggingface.co/datasets/DEEL-AI/LARD_V2
+
+# Licence
+[AGPL](LICENSE): GNU Affero General Public inherited from Ultralytics
