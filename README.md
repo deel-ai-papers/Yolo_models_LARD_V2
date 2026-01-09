@@ -21,7 +21,7 @@ Except for the models dedicated to piano_calibration, all the models provided he
 
 
 
-Finally, the dataset for *piano_calibration* is also publicly  available on HuggingFace at [huggingface.co/datasets/DEEL-AI/piano](https://huggingface.co/datasets/DEEL-AI/piano)
+Finally, the dataset for *piano_calibration* will be made publicly available on HuggingFace soon.
 
 # Paper
 The paper will be available in the proceedings of the ERTS 2026 conference and soon on Arxiv.
