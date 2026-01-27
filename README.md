@@ -19,9 +19,7 @@ Except for the models dedicated to piano_calibration, all the models provided he
 - The LARD V2 dataset is available on HuggingFace at [huggingface.co/datasets/DEEL-AI/LARD_V2](https://huggingface.co/datasets/DEEL-AI/LARD_V2)
 - The repository for generating new image data is available in open source at [github.com/deel-ai/LARD](https://github.com/deel-ai/LARD)
 
-
-
-Finally, the dataset for *piano_calibration* will be made publicly available on HuggingFace soon.
+Finally, the dataset for *piano_calibration* is also available on HuggingFace at [huggingface.co/datasets/DEEL-AI/Runway_Thresholds](https://huggingface.co/datasets/DEEL-AI/Runway_Thresholds)
 
 # Paper
 The paper will be available in the proceedings of the ERTS 2026 conference and soon on Arxiv.
